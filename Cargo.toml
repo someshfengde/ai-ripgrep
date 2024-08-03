@@ -2,6 +2,12 @@
 name = "ai-ripgrep"
 version = "0.0.1"
 edition = "2021"
+authors = ["Somesh <someshfengde@gmail.com>"]
+readme = "README.md"
+repository = "https://github.com/someshfengde/ai-ripgrep"
+license = "MIT"
+keywords = ["LLM", "tools", "openai", "groq"]
+
 
 [dependencies]
 clap = "4.5.13"
