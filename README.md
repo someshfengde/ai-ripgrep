@@ -1,7 +1,9 @@
 # ai-ripgrep
+## 🛠️ WIP
 Combining AI with ripgrep. So that you'll not have to remember the regex for searching particular term or doing the action you want. Planning same to integrate with groq to have a speedy AI serach and buiding on the top of what ripgrep already has. 
 
 ### Todo
+- [x] Basic structure added.
 - [ ] Adding groq based search. 
 - [ ] Adding Openai support. 
 - [ ] Natural language support 
